@@ -20,7 +20,6 @@ def display_txt(txt, num):
         display_txt(txt, num-1)
 
 
-
 def main():
     name = input('What is your name? ')
     print ("Hey " + name+ ', nice to meet you! ' )
